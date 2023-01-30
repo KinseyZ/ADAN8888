@@ -1,7 +1,7 @@
-Loan Default
+Banking Customer Churn Prediction
 ==============================
 
-detect the loan default of the Lending Club
+This project is to predict customer churn probability based on labeled data. The dataset is from Kaggle.
 
 Project Organization
 ------------
